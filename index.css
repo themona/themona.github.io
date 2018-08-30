@@ -1,0 +1,64 @@
+.red-back{
+	position: relative;
+	background-color: red;
+	height: 50vh;
+}
+.yellow-back{
+	position: relative;
+	background-color:  #00FF00;
+	height: 10vmax;
+}
+.grey-back{
+	position: relative;
+	background-color: grey;
+	height: 10vmax;
+}
+
+.blue-back{
+	position: relative;
+   background-color: white;
+   height: 80vh;
+}
+
+.gf{
+
+	height: 5vmax;
+}
+.hit{
+	height: 10vmax;
+}
+
+
+.hero{
+	position: relative;
+}
+
+.pink-back{
+	background-color: grey;
+	height: 8vmax;
+
+}
+
+.green-back{
+	background-color: green;
+	height: 60vh;
+
+}
+
+.orange-back{
+	background-color: orange;
+	height: 8vmax;
+}
+.mesg{
+	background-color: grey;
+	height: 10vh;
+}
+
+.footer{
+	position: absolute;
+	height: 30px;
+	bottom: 0;
+	width: 100%;
+	line-height: 30px;
+	background-color: black;
+}
